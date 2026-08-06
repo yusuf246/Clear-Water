@@ -1,4 +1,4 @@
-# Aqualine Water Treatment — Starter Site
+# Clear Water Treatment — Starter Site
 
 Plain HTML/CSS/JS, no build tools or frameworks. Open any `.html` file directly in a browser to preview.
 
